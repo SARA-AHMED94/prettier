@@ -21,8 +21,8 @@ function App() {
         </a>
       </header>
       <div>
-        <h2>sararag</h2>
-        <p>hwbdhwbdhewbdhewdbehwfbv</p>
+        <h2>sara ahmed</h2>
+        <p>frond end developer</p>
       </div>
     </div>
   );
