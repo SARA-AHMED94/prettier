@@ -4,7 +4,7 @@ import "./App.css";
 
 class App extends Component {
   mooncakeSays(message) {
-    let mooncake = "(o.o)";
+    let mooncake = "(O.o)";
     if (!message) {
       return `${mooncake} chookty?`;
     }
